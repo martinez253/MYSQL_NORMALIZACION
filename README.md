@@ -1,2 +1,3 @@
 # MYSQL_NORMALIZACION
-2_Sharoj_Ramirez_Programacion_12A
+2_SharoN_Ramirez_Programacion_12A
+
